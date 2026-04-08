@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Sitemap: https://dentiste-sidi-maarouf.webxmed.ma/sitemap.xml
